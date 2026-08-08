@@ -10,11 +10,11 @@
   Learning by building, understanding fundamentals, and turning concepts into working software.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/MohamedYaser61">
     <img src="https://img.shields.io/badge/GitHub-MohamedYaser61-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+</p> -->
 
 <br />
 
